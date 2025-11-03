@@ -1,0 +1,19 @@
+// frontend/src/index.css
+body {
+  font-family: sans-serif;
+  background-color: #f8f8f8;
+  margin: 0;
+  padding: 0;
+  line-height: 1.6;
+}
+
+.file-input {
+  border: 1px solid #ccc;
+  padding: 8px;
+  background: white;
+  border-radius: 4px;
+}
+
+button {
+  cursor: pointer;
+}
