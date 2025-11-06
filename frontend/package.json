@@ -1,6 +1,7 @@
 {
   "name": "screenshot-curator",
   "version": "1.0.0",
+  "type": "module", 
   "description": "Frontend for Screenshot Curator",
   "scripts": {
     "dev": "vite",
